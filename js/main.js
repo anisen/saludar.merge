@@ -1,3 +1,3 @@
 function saludar(){
-	console.log("hola!");
+	console.log("chain pirin pin pim");
 }
